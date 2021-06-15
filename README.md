@@ -24,19 +24,19 @@ Logged in users can:
 ### Deployed App Link
 https://baysharing.surge.sh/
 
-### Tech stack 
+### Tech Stack 
 
-##### Front End: 
+##### frontend: 
 HTML, CSS, Javascript, React.js, Redux, Bootstrap
 
-##### Back End: 
+##### backend: 
 Express, Node.js, SQL, PostgreSQL
 
 ### Installation and Setup Instructions
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.
 
-##### Back End:
+##### backend:
  cd to "sharely-backend" directory,and  install the dependencies:
     `npm install`
 
@@ -52,7 +52,7 @@ Clone down this repository. You will need `node` and `npm` installed globally on
 	`npm test`
 
 
-##### Front End:
+##### frontend:
 cd to "sharely-frontend", and install the dependencies:
    `npm install`
 
