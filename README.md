@@ -1,13 +1,32 @@
 # Bay Sharing
-
 Bay Sharing is a single page application providing a platform where the users can share their items with other people or families in the Bay Area.
+
+Guest users can:
+- browser all the posts
+- register to log in to get access to more features
+
+Logged in users can: 
+- browser all the posts
+- search certain posts by typing key words in the search form
+- save/cancel their favorite posts, send/cancel invite to the posts
+- filter the posts by age, city, category or user by clicking on the tags on each post
+- create new post by filling the new post form
+- edit or delete their own posts
+- add comments for the posts
+- view theirs own posts
+- view their saved favorite posts
+- view the posts which they have sent invites to
+- view the users who sent invites to their posts
+- view the deals which are ready to be made. Deal means both the logged in user and another user have interest in each other's post(s), so they can contact each other to discuss the furture process to share their items
 
 ### Deployed App Link:
 https://baysharing.surge.sh/
 
 ### Tech stack 
+
 ##### Front End: 
 React.js, Redux, Bootstrap
+
 ##### Back End: 
 Express, Node.js, PostgreSQL
 
