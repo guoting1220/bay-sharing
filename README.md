@@ -8,12 +8,13 @@ Guest users can:
 
 Logged in users can: 
 - browser all the posts
+- view the post details by clicking on the post card
+- add/remove comments for each post
 - search certain posts by typing key words in the search form
 - save/cancel their favorite posts, send/cancel invite to the posts
 - filter the posts by age, city, category or user by clicking on the tags on each post
 - create new post by filling the new post form
 - edit or delete their own posts
-- add comments for the posts
 - view theirs own posts
 - view their saved favorite posts
 - view the posts which they have sent invites to
