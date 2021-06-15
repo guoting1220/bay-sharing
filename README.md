@@ -1,6 +1,7 @@
 # Bay Sharing
 Bay Sharing is a single page application providing a platform where the users can share their items with other people or families in the Bay Area.
 
+### User Flow:
 Guest users can:
 - browser all the posts
 - register to log in to get access to more features
