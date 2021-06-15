@@ -1,6 +1,6 @@
-# Sharely
+# Bay Sharing
 
-Sharely is a single page application providing a platform where the users can share their items with other people or families in the Bay Area.
+Bay Sharing is a single page application providing a platform where the users can share their items with other people or families in the Bay Area.
 
 ### Deployed App Link:
 https://baysharing.surge.sh/
