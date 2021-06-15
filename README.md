@@ -4,7 +4,7 @@ Bay Sharing is a single page application providing a platform where the users ca
 ### User Flow:
 Guest users can:
 - browser all the posts
-- register to log in to get access to more features
+- register or log in to get access to more features
 
 Logged in users can: 
 - browser all the posts
@@ -18,7 +18,7 @@ Logged in users can:
 - view their saved favorite posts
 - view the posts which they have sent invites to
 - view the users who sent invites to their posts
-- view the deals which are ready to be made. Deal means both the logged in user and another user have interest in each other's post(s), so they can contact each other to discuss the furture process to share their items
+- view the deals which are ready to be made. Deal means both the logged in user and another user have interest in each other's post(s), so they can contact each other through email to discuss the furture process to share their items
 
 ### Deployed App Link:
 https://baysharing.surge.sh/
