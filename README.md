@@ -1,7 +1,7 @@
 # Bay Sharing
 Bay Sharing is a single page application providing a platform where the users can share their items with other people or families in the Bay Area.
 
-### User Flow:
+### User Flow
 Guest users can:
 - browser all the posts
 - register or log in to get access to more features
@@ -21,16 +21,16 @@ Logged in users can:
 - view the users who sent invites to their posts
 - view the deals which are ready to be made. Deal means both the logged in user and another user have interest in each other's post(s), so they can contact each other through email to discuss the furture process to share their items
 
-### Deployed App Link:
+### Deployed App Link
 https://baysharing.surge.sh/
 
 ### Tech stack 
 
 ##### Front End: 
-React.js, Redux, Bootstrap
+HTML, CSS, Javascript, React.js, Redux, Bootstrap
 
 ##### Back End: 
-Express, Node.js, PostgreSQL
+Express, Node.js, SQL, PostgreSQL
 
 ### Installation and Setup Instructions
 
@@ -60,7 +60,8 @@ cd to "sharely-frontend", and install the dependencies:
    `npm start`
 
    To run test suite:
-	`npm test`
+   `npm test`
 	
-To visit app:
-Open [http://localhost:3000] to view it in the browser.
+##### To visit app on localhost:  
+
+Open `http://localhost:3000` to view it in the browser.
