@@ -30,7 +30,10 @@ https://baysharing.surge.sh/
 HTML, CSS, Javascript, React.js, Redux, Bootstrap
 
 ##### backend: 
-Express, Node.js, SQL, PostgreSQL
+Express, Node.js
+
+##### database: 
+SQL, PostgreSQL
 
 ### Installation and Setup Instructions
 
