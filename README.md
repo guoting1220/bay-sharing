@@ -41,18 +41,20 @@ Clone down this repository. You will need `node` and `npm` installed globally on
 
 ##### backend:
  cd to "sharely-backend" directory,and  install the dependencies:
-    `npm install`
+  `npm install`
 
    Create the database and tables,  and populate the tables with sample data:
-   `psql -f sharely.sql` (for windows user)
-
-   `psql < sharely.sql` (for mac user)
+   (for windows user)
+   `psql -f sharely.sql` 
+    
+   (for mac user)
+   `psql < sharely.sql`
 
    To start the server:
    `npm start`
 
    To run test suite:
-	`npm test`
+   `npm test`
 
 
 ##### frontend:
