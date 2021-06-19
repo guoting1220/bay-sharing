@@ -44,6 +44,7 @@ Clone down this repository. You will need `node` and `npm` installed globally on
   `npm install`
 
    Create the database and tables,  and populate the tables with sample data:
+   
    (for windows user)
    `psql -f sharely.sql` 
     
