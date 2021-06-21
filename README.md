@@ -27,10 +27,10 @@ https://baysharing.surge.sh/
 ### Tech Stack 
 
 ##### frontend: 
-HTML, CSS, Javascript, React.js, Redux, Bootstrap
+HTML, CSS, Javascript, React.js, Redux, Bootstrap, Formik
 
 ##### backend: 
-Express, Node.js
+Express, Node.js, Bcrypt, jsonschema, JWT
 
 ##### database: 
 SQL, PostgreSQL
