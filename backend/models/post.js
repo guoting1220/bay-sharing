@@ -5,7 +5,7 @@ const { NotFoundError } = require("../expressError");
 const { sqlForPartialUpdate } = require("../helpers/sql");
 
 
-/** Related functions for companies. */
+/** Related functions for posts. */
 
 class Post {
   /** Create a post (from data), update db, return new post data.
